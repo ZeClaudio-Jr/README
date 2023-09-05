@@ -17,13 +17,19 @@
 <a href="https://www.linkedin.com/in/jos%C3%A9-cl%C3%A1udio-ara%C3%BAjo-j%C3%BAnior-b62319194/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.instagram.com/joseclaudio_jr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
-  
 
-*
-*
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ZeClaudio-Jr}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CECA&height=120&section=footer"/>
+
+*****
+*****
 # @Outra forma de apresentação@
-*
-*
+*****
+*****
 
 
 
@@ -40,8 +46,16 @@
 
 
 
-## Github Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeClaudio-Jr&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFFF00&hide_title=true&hide=stars)
+
+### Status
+
+<div>
+<a href="https://github.com/ZeClaudio_Jr/">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeClaudio_Jr&layout=compact&langs_count=7&theme=nord"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZeClaudio_Jr&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+</div>
 
 ## Redes Sociais
 <div> 
